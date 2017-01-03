@@ -93,3 +93,6 @@ GitHub.sublime-settings
 
 # Webstorm
 .idea
+
+# prepros
+prepros.cfg
